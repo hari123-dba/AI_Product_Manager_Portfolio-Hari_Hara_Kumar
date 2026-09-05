@@ -16,10 +16,10 @@
 
 ## 60-second read (for hiring managers)
 
-- **Who I am.** [X years] shipping production software ([primary domain]); now doing AI PM work end-to-end — problem framing, model/eval/cost decisions, and shipped artifacts.
+- **Who I am.** 4years shipping production software (Oracle DBA); now doing AI PM work end-to-end — problem framing, model/eval/cost decisions, and shipped artifacts.
 - **What's here.** Four AI product projects, each documented as *decisions and outcomes*, not just code. Every project has a `DECISIONS.md` — read that first if you're short on time.
 - **Start here.** → [Project 1: AI Product Teardown Series](./projects/project-1-teardown-series/) *(strongest artifact so far)*
-- **Currently.** Day 11 of a 90-day AI-PM build (Phase 1 · Foundations). This repo updates roughly daily — status is honest, including what isn't done yet.
+- **Currently.** Day 2 of a 90-day AI-PM build (Phase 1 · Foundations). This repo updates roughly daily — status is honest, including what isn't done yet.
 
 ---
 
