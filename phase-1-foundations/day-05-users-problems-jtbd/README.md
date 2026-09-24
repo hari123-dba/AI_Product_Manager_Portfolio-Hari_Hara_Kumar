@@ -19,7 +19,7 @@
 ## Artifacts
 - [x] [`jtbd-practice.md`](./jtbd-practice.md) — evidence base, switch timeline, 3 job statements with dimension tables, four-forces analysis, AI-fit test, 3 prioritized opportunities
 - [x] [`DECISIONS.md`](./DECISIONS.md) — why this app, alternatives rejected, reversal condition
-- [x] [`assets/`](./assets/) — screenshots of the review threads and community posts cited
+
 
 **Evidence base:** 10 own sessions `[observed]` · 8 store-review quotes `[stated]` · 4 community threads `[stated]`. No `[measured]` claims — I have no access to Perplexity's internal data, and nothing here should be read as if I do.
 
